@@ -2,7 +2,7 @@
 
 ![Captura de la app](./img/img.png)
 
-[ver la aplicación]()
+[ver la aplicación](https://ismaeljdz.github.io/Infinite-scroll/)
 
 ## Welcome! 👋
 
